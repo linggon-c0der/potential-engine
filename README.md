@@ -44,4 +44,5 @@ AI領域中有個叫“s0md3v”開源了一個用單圖就能做換臉影片的
 以下是我的實作tenor.gif
 ![Open In Colab](tenor.gif)
 ![image](2e7d3d0c-ff8f-11ed-9445-3230499d93ea-v1_f4_t2_4MeL38Rc.mp4g)
-![Open In Colab](tenor.gif)
+![Open In Colab](out.mp4)
+
