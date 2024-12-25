@@ -6,7 +6,7 @@ AI領域中有個叫“s0md3v”開源了一個用單圖就能做換臉影片的
 
 [![Open In Colab](2e7d3d0c-ff8f-11ed-9445-3230499d93ea-v1_f4_t2_4MeL38Rc.mp4)
 
-![image])(v2-94a7325c17fddb7357a6b6e6f2914503_1440w.jpg)
+![image](v2-94a7325c17fddb7357a6b6e6f2914503_1440w.jpg)
 
 ![image]
 ![image]
