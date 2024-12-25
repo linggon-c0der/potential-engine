@@ -41,6 +41,7 @@ AI領域中有個叫“s0md3v”開源了一個用單圖就能做換臉影片的
 ![image](v2-01f386481324be0180a7c6f61c9e02a0_1440w.jpg)
 在左側的檔案管理器中，右鍵，下載就可以了。下載到本機就直接可以查看效果咯
 
-以下是我的實作
-![Open In Colab](2e7d3d0c-ff8f-11ed-9445-3230499d93ea-v1_f4_t2_4MeL38Rc.mp4)
-![image](full.jpeg)
+以下是我的實作tenor.gif
+![Open In Colab](tenor.gif)
+![image](2e7d3d0c-ff8f-11ed-9445-3230499d93ea-v1_f4_t2_4MeL38Rc.mp4g)
+![Open In Colab](tenor.gif)
