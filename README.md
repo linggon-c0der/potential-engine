@@ -19,7 +19,7 @@ AI領域中有個叫“s0md3v”開源了一個用單圖就能做換臉影片的
 
 首先，打開這個位址：
 
-<https://github.com/dream80/roop_colab>  
+<https://github.com/dream80/roop_colab>
 然後點選紅色圈中的ipynb檔!
 ![image](v2-94a7325c17fddb7357a6b6e6f2914503_1440w.jpg)
 然後點選“Open in Colab ”
@@ -47,3 +47,5 @@ AI領域中有個叫“s0md3v”開源了一個用單圖就能做換臉影片的
 ![image](2e7d3d0c-ff8f-11ed-9445-3230499d93ea-v1_f4_t2_4MeL38Rc.mp4g)
 ![Open In Colab](out.mp4)
 
+<https://colab.research.google.com/drive/163oLh594F3N5VOGRrsBjP60sXURsQI1a#scrollTo=JXUkjpNpz2pc>
+這是換臉圖使用網址，只有更改檔案名稱來做出。
